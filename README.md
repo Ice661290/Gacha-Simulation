@@ -38,6 +38,11 @@
 | <a href="https://sourceforge.net/projects/orwelldevcpp/"><img src="https://github.com/user-attachments/assets/76cd598e-f79d-4d40-87cf-59b8fa98b5be" height="150"> | <a href="https://www.onlinegdb.com/online_c_compiler"><img src="https://github.com/user-attachments/assets/8cf9e34a-63d2-4cd5-9cc0-f71a4114f901" height="150"> |
 * **สามารถrunผลลัพธ์ผ่านตัวเว็บOnlineGDBได้ โดยไม่ต้องโหลดภาษาหรือtext editorเลย**
 
+### 3. Other
+* **Patorjk (Text to ASCII Art)**
+  
+  <a href="https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+Something+&x=none&v=4&h=4&w=80&we=false">Link</a>
+
 ---
 
 ## 👨‍💻 สมาชิก 

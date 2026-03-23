@@ -13,7 +13,7 @@ The system is designed to simulate a realistic gaming experience and includes th
 
 ---
 
-## Technical Concepts
+## 💻 Technical Concepts
 This program was developed to meet and cover the following course criteria:
 - [x] **Basic Syntax:** Proper use of fundamental commands, input, and output operations.
 - [x] **Control Structures:** Implementation of conditional statements (Switch-Case, If-Else) and loops (Do-While Loop).

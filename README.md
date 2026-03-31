@@ -24,6 +24,7 @@ The system is designed to simulate a realistic gaming experience and includes th
 * Select the Gacha & Random the prizes 
    <p>
     <img width="268" height="238" alt="8" src="https://github.com/user-attachments/assets/582675b2-acc6-4ede-9546-13e9749f0dcf" />
+    <br>
     <img width="267" height="237" alt="7" src="https://github.com/user-attachments/assets/b5727b74-2f48-49bd-9959-dc5e84a6db2e" />
     <img width="287" height="234" alt="6" src="https://github.com/user-attachments/assets/38cda4a6-8401-44a8-95c7-a96680c29bb3" />
    </p>

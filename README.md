@@ -12,7 +12,35 @@ The system is designed to simulate a realistic gaming experience and includes th
 * **Menu System:** A user-friendly menu interface with clear and easy-to-navigate categories.
 
 ---
+## 💻 Example Program
+ * Main menu & Regsiter
 
+     <img width="720" height="272" alt="1" src="https://github.com/user-attachments/assets/fb31c2eb-d24c-43cd-a562-a8e0cb23eb7a" />
+
+* Log in & Select ID
+
+     <img width="733" height="395" alt="2" src="https://github.com/user-attachments/assets/7811db22-68ee-4e8d-bc35-903021de2189" />
+  
+* Select the Gacha & Random the prizes 
+   <p>
+    <img width="268" height="238" alt="8" src="https://github.com/user-attachments/assets/582675b2-acc6-4ede-9546-13e9749f0dcf" />
+    <img width="267" height="237" alt="7" src="https://github.com/user-attachments/assets/b5727b74-2f48-49bd-9959-dc5e84a6db2e" />
+    <img width="287" height="234" alt="6" src="https://github.com/user-attachments/assets/38cda4a6-8401-44a8-95c7-a96680c29bb3" />
+   </p>
+
+* Check the prizes  in the inventory
+
+    <img width="293" height="215" alt="9" src="https://github.com/user-attachments/assets/2656200a-88d4-4fa5-a283-a13d55ec901b" />
+
+* Log out the ID
+
+    <img width="282" height="158" alt="10" src="https://github.com/user-attachments/assets/61146b85-2711-4fb6-967b-6d8456009514" />
+
+* Exit the game
+
+    <img width="715" height="228" alt="11" src="https://github.com/user-attachments/assets/6af519ee-00d7-44ad-adfb-2ffde8c73007" />
+
+---
 ## 💻 Technical Concepts
 This program was developed to meet and cover the following course criteria:
 - [x] **Basic Syntax:** Proper use of fundamental commands, input, and output operations.
